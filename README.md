@@ -9,7 +9,7 @@ That’s why we created BruinMart: a platform exclusively for UCLA students and 
 ## 🛠️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/bruinmart.git
-cd bruinmart
+git clone https://github.com/ScoobDaloob/BruinMart.git
+cd BruinMart
 npm install
 npm run dev
